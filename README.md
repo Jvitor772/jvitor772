@@ -58,6 +58,22 @@ Meu objetivo é transformar conhecimento em projetos reais, automatizações e s
 [ ] Aprender novas tecnologias
 [ ] Construir projetos cada vez mais complexos
 
+🐍 Python Projects
+
+Projetos criados durante minha evolução com Python, explorando lógica de programação, funções, estruturas de dados e desenvolvimento de aplicações.
+
+<br> <a href="https://github.com/jvitor772tab=repositories"> <img src="https://img.shields.io/badge/VIEW%20MY%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black"/> </a> </div>
+
+🚧 Novos projetos estão sendo desenvolvidos.
+
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2CBF&text_color=FFFFFF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/> </div>
+
+<div align="center"> <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7B2CBF&currStreakLabel=00F7FF"/> </div>
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F7FF&line=7B2CBF&point=FFFFFF&area=true&hide_border=true"/> </div>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?jvitor772=jvitor772&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"/> </div>
+
 <div align="center">
 🐍 Main Language
 <img src="https://skillicons.dev/icons?i=python" height="65"/>
